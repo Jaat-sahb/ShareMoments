@@ -1,0 +1,4 @@
+# Add files to the repository
+*.log
+.env
+node_modules/
